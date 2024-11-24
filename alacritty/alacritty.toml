@@ -1,0 +1,7 @@
+import = [
+    "~/.config/alacritty/themes/themes/afterglow.toml"
+]
+
+[font]
+size = 7.0
+
